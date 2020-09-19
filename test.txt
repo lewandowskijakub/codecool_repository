@@ -4,3 +4,5 @@ has changed
 ooops - jednak zmienił się
 
 branch new feature
+
+NewFeature
