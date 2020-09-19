@@ -5,4 +5,4 @@ ooops - jednak zmienił się
 
 branch new feature
 
-NewFeature
+New Feature - Jarek.
